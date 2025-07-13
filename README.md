@@ -28,7 +28,6 @@ A comprehensive backend API for managing engineering resources, projects, and as
 1. **Clone the repository**
    \`\`\`bash
    git clone <repository-url>
-   cd backend
    \`\`\`
 
 2. **Install dependencies**
